@@ -67,6 +67,10 @@ namespace CefSharp.WinForms.Example.Handlers
             return false;
         }
 
+  
+
+
+
         public void OnBeforeClose(IWebBrowser browserControl, IBrowser browser)
         {
             
